@@ -1,2 +1,2 @@
-# nan.ge
-个人主页，导航页展示。
+# peg195.dfggbbs.eu.org
+peg195的个人主页
